@@ -25,7 +25,7 @@ python app.py
 docker-compose up --build
 
 API Endpoints
-Method	    Endpoint	               Parameters	                                                     Description
-GET	        /health	                   None	                                          Returns a response to confirm the API is active.
-POST	      /search          	text, top_k, threshold,                                 Returns a list of top matching documents based on query.
+Method	    Endpoint	              Parameters	                                                    Description
+GET	        /health	                 None	                                     Returns a response to confirm the API is active.
+POST	      /search             	text, top_k, threshold,                             Returns a list of top matching documents based on query.
                                       user_id	
