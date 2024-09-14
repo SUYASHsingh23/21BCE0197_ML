@@ -5,15 +5,19 @@ to generate context for LLMs to use for inference.
 
 To run
 1. Clone the Repository:
+
 git clone https://github.com/YourUsername/DocumentRetrievalSystem.git
 
-2. Install Dependencies:
+3. Install Dependencies:
+   
 pip install -r requirements.txt
 
-3. Run the Application:
+5. Run the Application:
+   
 python app.py
 
-4. Using Docker:
+7. Using Docker:
+   
 docker-compose up --build
 
 API Endpoints
