@@ -1,4 +1,5 @@
 AI Intern Task
+
 Gist: You are required to build a document retrieval system for chat applications to use as context.
 Problem Statement: You are required to build a backend for document retrieval. The goal of the task is
 to generate context for LLMs to use for inference.
