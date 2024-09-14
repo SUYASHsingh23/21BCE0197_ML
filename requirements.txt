@@ -1,0 +1,8 @@
+flask
+pymongo
+transformers
+redis
+loguru
+prometheus-client
+beautifulsoup4
+scrapy
