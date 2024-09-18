@@ -78,33 +78,20 @@ How to Run
 
 Clone the Repository:
 
-bash
-
-Copy code
-
 git clone https://github.com/YourUsername/DocumentRetrievalSystem.git
 
 Install Dependencies:
-
-Copy code
 
 pip install -r requirements.txt
 
 Run the Application:
 
-Copy code
-
 python app.py
 
 Using Docker:
 
-css
-
-Copy code
-
 docker-compose up --build
 
-Design Decisions
 
 
 
